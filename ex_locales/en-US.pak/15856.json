@@ -1,0 +1,3 @@
+{COUNT, plural,
+         =1 {Page 1}
+         other {Page #}}

@@ -1,0 +1,4 @@
+{COUNT, plural,
+          =0 {Open all in &new window}
+          =1 {Open in &new window}
+          other {Open all (#) in &new window}}

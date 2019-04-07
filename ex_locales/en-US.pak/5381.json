@@ -1,0 +1,3 @@
+{NUM_PAGES, plural,
+        =1 {Page Unresponsive}
+        other {Pages Unresponsive}}

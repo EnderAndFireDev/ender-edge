@@ -1,0 +1,1 @@
+Add a query param in URL to auto-refresh the page: chrome://device-log/?refresh=<sec>

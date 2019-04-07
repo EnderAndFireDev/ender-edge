@@ -1,0 +1,4 @@
+{COUNT, plural,
+      =0 {None}
+      =1 {From 1 site }
+      other {From # sites }}

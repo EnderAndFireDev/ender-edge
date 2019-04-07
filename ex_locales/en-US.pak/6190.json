@@ -1,0 +1,3 @@
+{NUM_PRINTER, plural,
+         =1 {New printer on your network}
+         other {New printers on your network}}

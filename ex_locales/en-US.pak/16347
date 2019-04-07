@@ -1,0 +1,1 @@
+You attempted to reach <strong>$1</strong>, but the certificate that the server presented has been revoked by its issuer. This means that the security credentials the server presented absolutely should not be trusted. You may be communicating with an attacker.

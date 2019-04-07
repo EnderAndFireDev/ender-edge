@@ -1,0 +1,1 @@
+"Your connection is not private" or "<span class="error-code">NET::ERR_CERT_AUTHORITY_INVALID</span>" or "<span class="error-code">ERR_CERT_COMMON_NAME_INVALID</span>" or "<span class="error-code">NET::ERR_CERT_WEAK_SIGNATURE_ALGORITHM</span>" or "<span class="error-code">ERR_CERT_SYMANTEC_LEGACY</span>" or "SSL certificate error"

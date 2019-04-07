@@ -1,0 +1,3 @@
+{NUM_FILES, plural,
+         =1 {It has permanent access to one file.}
+         other {It has permanent access to # files.}}

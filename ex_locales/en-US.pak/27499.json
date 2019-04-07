@@ -1,0 +1,1 @@
+{DAYS, plural, =1 {in 1d} other {in #d}}

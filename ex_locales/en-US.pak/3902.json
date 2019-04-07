@@ -1,0 +1,3 @@
+{LINE_COUNT, plural,
+      =1 {<1 line not shown>}
+      other {<$1 lines not shown>}}

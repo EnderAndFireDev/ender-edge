@@ -1,0 +1,1 @@
+Try <a jsvalues="href:originURL;.jstdata:$this" onmousedown="linkClicked(this.jstdata)">visiting the site's homepage</a>.

@@ -1,0 +1,3 @@
+{NUM_CARDS, plural,
+      =1 {This card and its billing address will be saved. You'll be able to use it when signed in to $1.}
+      other {These cards and their billing addresses will be saved. You'll be able to use them when signed in to $1.}}

@@ -1,0 +1,4 @@
+{0, plural,
+        =1 {# open window}
+        other {# open windows}
+      }

@@ -1,0 +1,3 @@
+{NUM_FILES, plural,
+           =1 {Access a file stored on your computer}
+           other {Access # files stored on your computer}}

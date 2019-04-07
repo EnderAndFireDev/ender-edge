@@ -1,0 +1,10 @@
+Go to
+          the Chromium menu >
+          <span jscontent="settingsTitle"></span>
+          >
+          <span jscontent="advancedTitle"></span>
+          >
+          <span jscontent="proxyTitle"></span>
+          >
+          LAN Settings
+          and deselect the "Use a proxy server for your LAN" checkbox.

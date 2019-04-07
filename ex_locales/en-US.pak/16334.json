@@ -1,0 +1,3 @@
+{1, plural,
+     =1 {This server could not prove that it is <strong>{0}</strong>; its security certificate expired yesterday. This may be caused by a misconfiguration or an attacker intercepting your connection. Your computer's clock is currently set to {2, date, full}. Does that look right? If not, you should correct your system's clock and then refresh this page.}
+     other {This server could not prove that it is <strong>{0}</strong>; its security certificate expired # days ago. This may be caused by a misconfiguration or an attacker intercepting your connection. Your computer's clock is currently set to {2, date, full}. Does that look right? If not, you should correct your system's clock and then refresh this page.}}

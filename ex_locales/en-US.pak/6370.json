@@ -1,0 +1,4 @@
+{0, plural,
+        =1 {Upload one file to this site?}
+        other {Upload # files to this site?}
+      }

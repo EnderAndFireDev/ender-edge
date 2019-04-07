@@ -1,0 +1,3 @@
+{COUNT, plural,
+     =1 {and 1 more}
+     other {and # more}}

@@ -1,0 +1,4 @@
+{COUNT, plural,
+          =0 {Open all in &incognito window}
+          =1 {Open in &incognito window}
+          other {Open all (#) in &incognito window}}

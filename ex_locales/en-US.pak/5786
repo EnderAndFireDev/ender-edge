@@ -1,0 +1,1 @@
+Please start $1 as a normal user. If you need to run as root for development, rerun with the --no-sandbox flag.

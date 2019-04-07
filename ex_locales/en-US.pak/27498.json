@@ -1,0 +1,1 @@
+{HOURS, plural, =1 {in 1h} other {in #h}}

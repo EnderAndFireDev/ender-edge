@@ -1,0 +1,3 @@
+{0, plural,
+               =1 {Relaunch Chromium within a day}
+               other {Relaunch Chromium within # days}}

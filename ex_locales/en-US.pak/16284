@@ -1,0 +1,4 @@
+The server you are going to, $2, has requested that
+    a security policy will be applied to all requests to it. But it has now
+    delivered an invalid policy, which prevents the browser from
+    fulfilling your request for $1.

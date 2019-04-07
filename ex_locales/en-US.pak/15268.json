@@ -1,0 +1,4 @@
+{COUNT, plural,
+     =0 {At least 1 item on synced devices}
+     =1 {1 item (and more on synced devices)}
+     other {# items (and more on synced devices)}}

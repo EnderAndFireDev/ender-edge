@@ -1,0 +1,3 @@
+{COUNT, plural,
+      =1 {1 bookmark deleted}
+      other {# bookmarks deleted}}

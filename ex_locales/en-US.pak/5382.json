@@ -1,0 +1,3 @@
+{NUM_PAGES, plural,
+        =1 {You can wait for it to become responsive or exit the page.}
+        other {You can wait for them to become responsive or exit the pages.}}

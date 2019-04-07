@@ -1,0 +1,3 @@
+{NUM_ATTEMPTS, plural,
+          =1 {Incorrect PIN. You have one attempt remaining.}
+          other {Incorrect PIN. You have # attempts remaining.}}

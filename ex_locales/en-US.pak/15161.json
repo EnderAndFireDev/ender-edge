@@ -1,0 +1,3 @@
+{NUM_CARDS, plural,
+      =1 {This card can't be saved right now}
+      other {These cards can't be saved right now}}

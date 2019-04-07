@@ -1,0 +1,4 @@
+The server you are going to, $2, has requested that
+    a security policy will be applied to all requests to it. But instead of
+    delivering a policy it has redirected the browser elsewhere, which prevents
+    the browser from fulfilling your request for $1.

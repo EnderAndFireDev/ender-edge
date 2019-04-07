@@ -1,0 +1,1 @@
+You attempted to reach <strong>$1</strong>, but the server presented a certificate signed using a weak signature algorithm (such as SHA-1). This means that the security credentials the server presented could have been forged, and the server may not be the server you expected (you may be communicating with an attacker).

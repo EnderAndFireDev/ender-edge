@@ -1,0 +1,3 @@
+{NUM_BOOKMARKS, plural,
+     =1 {This folder contains a bookmark. Are you sure you want to delete it?}
+     other {This folder contains # bookmarks. Are you sure you want to delete it?}}

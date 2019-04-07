@@ -1,0 +1,4 @@
+{COUNT, plural,
+     =0 {None}
+     =1 {sign-in data for 1 account}
+     other {sign-in data for # accounts}}

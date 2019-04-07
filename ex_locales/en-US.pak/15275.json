@@ -1,0 +1,4 @@
+{COUNT, plural,
+     =0 {None}
+     =1 {1 password (synced)}
+     other {# passwords (synced)}}

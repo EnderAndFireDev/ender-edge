@@ -1,0 +1,4 @@
+{COUNT, plural,
+          =0 {&Open all}
+          =1 {&Open bookmark}
+          other {&Open all (#)}}

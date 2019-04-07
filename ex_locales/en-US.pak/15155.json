@@ -1,0 +1,3 @@
+{NUM_CARDS, plural,
+      =1 {Save card in your Google Account}
+      other {Save cards in your Google Account}}

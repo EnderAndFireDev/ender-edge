@@ -1,0 +1,3 @@
+{NUM_COOKIES, plural,
+        =1 {1 cookie}
+        other {# cookies}}

@@ -1,0 +1,4 @@
+{SHIPPING_ADDRESS, plural,
+      =0 {{1}}
+      =1 {{1} and {2} more}
+      other {{1} and {2} more}}

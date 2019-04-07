@@ -1,0 +1,1 @@
+A root certificate for "$1" is required but isn’t installed. Your IT administrator should look at configuration instructions for "$1" to fix this problem. $2

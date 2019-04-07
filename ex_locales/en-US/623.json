@@ -1,0 +1,3 @@
+{SECONDS, plural,
+         =1 {Ender Edge will restart in 1 second}
+         other {Ender Edge will restart in # seconds}}

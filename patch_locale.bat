@@ -1,0 +1,1 @@
+pak.exe -p ex_locales\en-US\pak_index.ini locales/en-US.pak

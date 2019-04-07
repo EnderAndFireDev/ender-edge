@@ -1,3 +1,0 @@
-{SECONDS, plural,
-         =1 {Chromium will restart in 1 second}
-         other {Chromium will restart in # seconds}}

@@ -1,0 +1,4 @@
+{0, plural,
+               =0 {Ender Edge will relaunch now}
+               =1 {Ender Edge will relaunch in 1 second}
+               other {Ender Edge will relaunch in # seconds}}

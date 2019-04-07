@@ -1,0 +1,3 @@
+{0, plural,
+               =1 {Relaunch Ender Edge within a day}
+               other {Relaunch Ender Edge within # days}}

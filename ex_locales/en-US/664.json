@@ -1,0 +1,3 @@
+{0, plural,
+               =1 {Ender Edge will relaunch in an hour}
+               other {Ender Edge will relaunch in # hours}}

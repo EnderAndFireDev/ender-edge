@@ -1,0 +1,4 @@
+{0, plural,
+               =0 {A Ender Edge update is available}
+               =1 {A Ender Edge update is available}
+               other {A Ender Edge update has been available for # days}}

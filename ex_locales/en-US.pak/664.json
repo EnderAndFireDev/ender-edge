@@ -1,3 +1,0 @@
-{0, plural,
-               =1 {Chromium will relaunch in an hour}
-               other {Chromium will relaunch in # hours}}
